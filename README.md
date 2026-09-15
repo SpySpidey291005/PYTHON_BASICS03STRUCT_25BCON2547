@@ -16,36 +16,10 @@ A simple Python program that stores and prints basic student information, includ
 * Simple and easy-to-understand Python code.
 * Suitable for beginners learning Python.
 
-## 🛠️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd <repository-directory>
-```
-
-3. Make sure Python is installed on your system.
-
 ## 📋 Requirements
 
 * Python 3.x
 * No external libraries or dependencies are required.
-
-## ▶️ Usage
-
-Run the program using:
-
-```bash
-python structstudent.py
-```
-
-The program will print the stored student details in the terminal.
 
 ## 💡 Example
 
@@ -62,7 +36,3 @@ Marks: 87.5
 ```
 
 > **Note:** The displayed values depend on the student details defined in `structstudent.py`.
-
-## 📄 License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the project with appropriate attribution.
